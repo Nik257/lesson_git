@@ -3,6 +3,3 @@ git education
 start:
 cat
 dog
-fox
-Python
-
