@@ -3,3 +3,5 @@ git education
 start:
 cat
 dog
+snake
+bird
