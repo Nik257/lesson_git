@@ -25,3 +25,7 @@ work sex week develop branch
 work seven week develop branch
 
 work eigth week develop branch
+
+Fearure 2 work one week, feature branch
+Feature 2 work two week , feature branch
+
