@@ -41,3 +41,5 @@ Fearure 2 work one week, feature branch
 Feature 2 work two week , feature branch
 
 work Develop week nine , develop branch after merge feature
+
+WORK HOTFIX, add new branch Hotfix
